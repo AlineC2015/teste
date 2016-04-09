@@ -63,7 +63,7 @@ ProdutoDAO banco = new ProdutoDAOImpl();
         
         
       
-        // final da tabela de produtos
+        // final da tabela de produtos tabe
         out.println("</TABLE>");
         out.println("</body>");
         out.println("</html>");
